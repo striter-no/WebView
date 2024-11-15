@@ -21,3 +21,6 @@ pip install -r reqs.txt
 ```shell
 python3 webview.py --root "./Docs" # For example
 ```
+
+## Showcase
+![image](https://github.com/user-attachments/assets/4c0006b8-b934-44d0-a92a-cd2c23697fbd)
